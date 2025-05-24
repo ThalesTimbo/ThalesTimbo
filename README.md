@@ -45,7 +45,7 @@
 🗓️ **2024:** Iniciei meus estudos em Informática  
 🌐 **2024:** Publiquei meu primeiro site: *Festival Urubu Racing*  
 🤖 **2025:** Entrei no mundo da Robótica e Desenvolvimento de Jogos  
-🎮 **2025:** Desenvolvi meus primeiros jogos e projetos completos em Godot e JS  
+🎮 **2025:** Comecei a estudar sobre o desenvolvimento de jogos, principalmente com a Godot e o GDScript  
 
 ---
 
