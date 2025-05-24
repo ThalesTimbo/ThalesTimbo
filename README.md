@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! Eu sou o Thales Timbó Fernandes</h1>
+<h1 align="center">👋 Hello! Eu sou o Thales Timbó Fernandes</h1>
 
 <p align="center">
   📱 Desenvolvedor Front-End | 🎨 Designer de Interfaces | 🎮 Gamer | 🖥️ Entusiasta de Tecnologia
