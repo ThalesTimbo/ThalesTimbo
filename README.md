@@ -37,6 +37,7 @@
 ---
 
 > 📌 [Veja meu portfólio completo aqui](https://github.com/ThalesTimbo)
+Estou concluindo ele ainda
 
 ---
 
