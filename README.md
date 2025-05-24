@@ -1,59 +1,91 @@
-<h1 align="center">👋 Olá, eu sou o Thales Timbó Fernandes!</h1>
+<h1 align="center">👋 Hey! Eu sou o Thales Timbó Fernandes</h1>
 
-<p align="center">📱 Desenvolvedor Front-End | 🎮 Entusiasta de Games e Animes | 💻 Apaixonado por tecnologia</p>
+<p align="center">
+  📱 Desenvolvedor Front-End | 🎨 Designer de Interfaces | 🎮 Gamer | 🖥️ Entusiasta de Tecnologia
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00D9FF&width=435&lines=Seja+bem-vindo+ao+meu+perfil!;Desenvolvedor+Front-End+em+formação!;Apaixonado+por+Games+e+Design!;Explorando+novas+tecnologias!" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📖 Sobre Mim
+## 📝 Sobre Mim
 
-Sou estudante de **Informática** na EEEP Dep. José Maria Melo e um apaixonado por desenvolvimento front-end. Gosto de criar interfaces modernas, minimalistas e intuitivas — sempre buscando unir código e criatividade.
-
-Quando não estou codando:
-- 🎵 Ouço lo-fi ou trilhas sonoras de games
-- 📺 Maratono animes (SAO e Tower of God no coração)
-- 🎨 Exploro novas ideias no Figma e Godot
+🎓 Estudante de **Informática** na EEEP Dep. José Maria Melo  
+👨‍💻 Desenvolvedor **Front-End** apaixonado por transformar ideias em interfaces modernas e responsivas  
+🎮 Entusiasta de **animes**, **games** e **trilhas sonoras** (SAO e Tower of God são meus vícios)  
+⚡ Acredito que tecnologia + design bem feito muda experiências e cria memórias digitais incríveis  
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Figma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Godot" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,figma,godot,github,canva" />
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 📈 Minhas Estatísticas
 
 <div align="center">
-  <a href="https://github.com/ThalesTimbo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalesTimbo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalesTimbo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
-## 📱 Contato
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thales_timbo/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thales-timb%C3%B3-fernandes-14b222365/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThalesTimbo)
+> 📌 [Veja meu portfólio completo aqui](https://github.com/ThalesTimbo)
 
 ---
 
-## ✨ Curiosidades
+## 📚 Timeline da Jornada
 
-- 🔥 Amo trilhas sonoras de jogos
-- 🕹️ Desenvolvedor de jogos na Godot
-- ✍️ Tenho anotações secretas nos meus códigos 😏
-- ⚡ Sempre explorando novas techs e APIs
+🗓️ **2024:** Iniciei meus estudos em Informática  
+🌐 **2024:** Publiquei meu primeiro site: *Festival Urubu Racing*  
+🤖 **2025:** Entrei no mundo da Robótica e Desenvolvimento de Jogos  
+🎮 **2025:** Desenvolvi meus primeiros jogos e projetos completos em Godot e JS  
 
 ---
 
-<p align="center">Feito com 💙 por Thales Timbó</p>
+## 🎨 Design + Código = ❤️
+
+Amo unir **design minimalista** com **experiências interativas**.  
+**CSS** e **animações** fazem parte da minha assinatura visual ⚡.
+
+---
+
+## 📱 Onde Me Encontrar
+
+<div align="center">
+  <a href="https://www.instagram.com/thales_timbo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/thales-timb%C3%B3-fernandes-14b222365/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ThalesTimbo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://api.whatsapp.com/send/?phone=5588981903220&text=Eai%20mano!%20Vi%20teu%20portfólio%20no%20GitHub!" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 📌 Curiosidades sobre Mim
+
+- 🎧 Viciado em músicas
+- 📺 Maratonador de animes (SAO e Tower of God no topo)
+- 🎮 Estudando desenvolvimento de jogos na **Godot Engine**
+- ✍️ Deixo mensagens escondidas nos meus códigos (Já achou algum? 👀)
+- ⚡ Uso IA pra otimizar design e código
+- 📺 Amo assistir animes
+
+---
+
+<p align="center">
+  Feito com ❤️ por Thales ✨
+</p>
