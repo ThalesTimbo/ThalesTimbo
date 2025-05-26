@@ -37,6 +37,7 @@
 ---
 
 > 📌 [Veja meu portfólio completo aqui](https://github.com/ThalesTimbo)
+
 Estou concluindo ele ainda
 
 ---
@@ -89,4 +90,4 @@ Amo unir **design minimalista** com **experiências interativas**.
 
 <p align="center">
   Feito com ❤️ por Thales ✨
-</p>,
+</p>
