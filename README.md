@@ -89,4 +89,4 @@ Amo unir **design minimalista** com **experiências interativas**.
 
 <p align="center">
   Feito com ❤️ por Thales ✨
-</p>, : https://github.com/ThalesTimbo
+</p>,
