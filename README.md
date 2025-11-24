@@ -36,7 +36,7 @@
 
 ---
 
-> 📌 [Veja meu portfólio completo aqui](https://thalestimbo.github.io/Meu-Portfolio/)
+> 📌 [Veja meu portfólio completo aqui](https://thalestimbo.github.io/Portfolio-02/)
 
 ---
 
